@@ -15,6 +15,7 @@ export default class SignatureCanvas extends Component {
     throttle: PropTypes.number,
     onEnd: PropTypes.func,
     onBegin: PropTypes.func,
+    onAddPoint: PropTypes.func,
     // props specific to the React wrapper
     canvasProps: PropTypes.object,
     clearOnResize: PropTypes.bool

@@ -50,7 +50,8 @@
     "react-dom": "0.14 - 16"
   },
   "dependencies": {
-    "signature_pad": "^2.3.2",
+    "fsevents": "^1.2.9",
+    "signature_pad": "viavansi/signature_pad",
     "trim-canvas": "^0.1.0"
   },
   "devDependencies": {
@@ -74,5 +75,8 @@
     "style-loader": "^0.13.1",
     "webpack": "^1.12.2",
     "webpack-dev-server": "^1.10.1"
+  },
+  "resolutions": {
+    "**/**/node-gyp": "5.0.0"
   }
 }
