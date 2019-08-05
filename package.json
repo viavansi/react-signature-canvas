@@ -1,7 +1,7 @@
 {
-  "name": "react-signature-canvas",
+  "name": "react-signature-canvas-viafirma",
   "version": "1.0.3",
-  "description": "A React wrapper component around signature_pad. Unopinionated and heavily updated fork of react-signature-pad",
+  "description": "Fork of react-signature-canvas. A React wrapper component around signature_pad. Unopinionated and heavily updated fork of react-signature-pad",
   "main": "build/index.js",
   "files": [
     "src/index.js",
@@ -9,13 +9,13 @@
   ],
   "author": "Anton Gilgur",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/agilgur5/react-signature-canvas",
+  "homepage": "https://github.com/viafirma/react-signature-canvas-viafirma",
   "repository": {
     "type": "git",
-    "url": "https://github.com/agilgur5/react-signature-canvas.git"
+    "url": "https://github.com/viafirma/react-signature-canvas-viafirma.git"
   },
   "bugs": {
-    "url": "https://github.com/agilgur5/react-signature-canvas/issues"
+    "url": "https://github.com/viafirma/react-signature-canvas-viafirma/issues"
   },
   "keywords": [
     "react",
