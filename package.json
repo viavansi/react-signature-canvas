@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "fsevents": "^1.2.9",
-    "signature_pad": "viavansi/signature_pad",
+    "signature_pad_viafirma": "^3.0.0-beta.3",
     "trim-canvas": "^0.1.0"
   },
   "devDependencies": {
